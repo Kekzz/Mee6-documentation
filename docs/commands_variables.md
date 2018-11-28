@@ -7,8 +7,7 @@ These can be used by typing them in the custom command inside a `{ }`
 
 `{user.id}` Gives the id of the user who executed thd command.
 
-`{user.name}` Gives the user name (without `@` or `#` or `discriminator`), this is the global username and not the server nickname.
-
+`{user.name}`Gives id of tagged user
 `{user.discriminator}` Gives the user discriminator (the 4 numbers after the `#` after your name).
 
 `{user.idname}` Gives the username with the discriminator like: `MEE6#4876`.
